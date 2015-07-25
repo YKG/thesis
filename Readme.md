@@ -15,7 +15,7 @@
 
   添加以下配置到`~/.atom/style.less`
 
-  ```
+  ```less
   atom-text-editor::shadow .cursors .cursor {
     opacity: 1;
   }
