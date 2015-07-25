@@ -13,13 +13,13 @@
 
 - [关闭光标闪烁][1]
 
-添加以下配置到`~/.atom/style.less`
+  添加以下配置到`~/.atom/style.less`
 
-```
-atom-text-editor::shadow .cursors .cursor {
-  opacity: 1;
-}
-```
+  ```
+  atom-text-editor::shadow .cursors .cursor {
+    opacity: 1;
+  }
+  ```
 
 
 
