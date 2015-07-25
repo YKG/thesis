@@ -21,6 +21,13 @@
   }
   ```
 
+- 安装AtomicChar
+
+### 双拼
+
+- 单韵母的字声母部分[用O代替][2]
+
 
 
 [1]: https://discuss.atom.io/t/blinking-cursor/1544/14
+[2]: http://pinyin.sogou.com/help.php?list=3&q=4
